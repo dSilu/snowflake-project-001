@@ -1,4 +1,4 @@
 .env
 ./.env
 existing_users.json
-Exampleset/*
+Exampleset
